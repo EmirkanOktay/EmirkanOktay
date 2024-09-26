@@ -1,16 +1,20 @@
-# 👋 Hi, I’m Emirkan
-I’m interested in becoming a frontend developer
-I’m currently learning/working on HTML, CSS, JS.
-# 🛠️ Technologies under study:
+# Emirkan Oktay
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-</p>
+Merhaba! Ben Emirkan Oktay, İstanbul Aydın Üniversitesi'nde 2. sınıf Bilgisayar Programcılığı öğrencisiyim. Yazılım dünyasında React ve Java üzerine yoğunlaşıyorum.
+
+## 🚀 Şu An Üzerinde Çalıştıklarım
+- React ve Java öğreniyorum
+- Kendi projelerimi geliştiriyorum
+
+## 🛠️ Kullandığım Diller & Araçlar
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📊 GitHub İstatistiklerim
+![Emirkan Oktay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmirkanOktay&show_icons=true&theme=radical)
+
+## 💬 İletişim
+- **GitHub**: [EmirkanOktay](https://github.com/EmirkanOktay)
+- **Email**: emirkan@example.com
