@@ -1,6 +1,6 @@
 # **Emirkan Oktay**
 
-Hello! I'm Emirkan Oktay, a second-year Computer Programming student at Istanbul Aydın University. I am focusing on React and Java in the world of software development.
+Hello! I'm Emirkan Oktay, a second-year Computer Programming student at Istanbul Aydın University. I am focusing on NodeJS in the world of software development.
 
 ## 🚀 **What I'm Currently Working On**
 - Learning NodeJs
