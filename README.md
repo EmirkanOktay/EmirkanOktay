@@ -1,23 +1,33 @@
-# **Emirkan Oktay**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=37F7D7&center=true&width=435&lines=%F0%9F%9A%80+Hey!+I'm+Emirkan!;Passionate+Frontend+Developer;React+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
+</h1>
 
-Hello! I'm Emirkan Oktay, a second-year Computer Programming student at Istanbul Aydın University. I am focusing on NodeJS in the world of software development.
+<h3 align="center">🚀 Passionate Frontend Developer from Turkey </h3>
 
-## 🚀 **What I'm Currently Working On**
-- Learning NodeJs
-- Developing my own projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirkanoktay&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-## 🛠️ **Languages & Tools I Use**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## 📊 **GitHub Stats**
-![Emirkan Oktay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmirkanOktay&show_icons=true&theme=radical)
+## 🌟 About Me
+- 🔭 I’m currently working on **Frontend Projects with React.js**
+- 🌱 I’m learning **Node.js & Next.js**
+- 💡 Exploring **Backend Development**
+- 🎯 2025 Goals: **Build Full-Stack Applications**
+---
 
-## 💬 **Contact**
-- **GitHub**: [EmirkanOktay](https://github.com/EmirkanOktay)
-- **Email**: emirkanoktay12@gmail.com
+## 🛠️ Languages & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,mongodb,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emirkanoktay&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emirkanoktay&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies">
+</p>
