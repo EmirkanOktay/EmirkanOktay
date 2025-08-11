@@ -18,7 +18,7 @@
 
 ## 🛠️ Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,mongodb,java,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,mongodb,java,mysql,git,github,scss" />
 </p>
 
 ---
