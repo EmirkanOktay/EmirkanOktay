@@ -10,15 +10,15 @@
 
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **Frontend Projects with React.js**
-- 🌱 I’m learning **Node.js & Next.js**
+- 🔭 I’m currently working on **Mern Stack Projects**
+- 🌱 I’m learning **Next.js**
 - 💡 Exploring **Backend Development**
 - 🎯 2025 Goals: **Build Full-Stack Applications**
 ---
 
 ## 🛠️ Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,mongodb,java,mysql,git,github,scss" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,mongodb,java,mysql,git,github,scss,nextjs" />
 </p>
 
 ---
