@@ -4,11 +4,6 @@
 
 <h3 align="center">🚀 Passionate Frontend Developer from Turkey </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirkanoktay&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
 ## 🌟 About Me
 - 🔭 I’m currently working on **Mern Stack Projects**
 - 🌱 I’m learning **Next.js**
