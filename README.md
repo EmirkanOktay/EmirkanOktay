@@ -1,15 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=37F7D7&center=true&width=435&lines=%F0%9F%9A%80+Hey!+I'm+Emirkan!;Passionate+Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Java+Developer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Passionate Frontend Developer from Turkey </h3>
-
-## 🌟 About Me
-- 🔭 I’m currently working on **Mern Stack Projects**
-- 🌱 I’m learning **Next.js**
-- 💡 Exploring **Backend Development**
-- 🎯 2025 Goals: **Build Full-Stack Applications**
----
 
 ## 🛠️ Languages & Tools:
 <p align="center">
@@ -20,9 +15,24 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirkanoktay&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/EmirkanOktay">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emirkanoktay&theme=aura"
+    />
+  <a href="https://github.com/EmirkanOktay">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emirkanoktay&theme=aura"
+    />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emirkanoktay&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies">
+  <a href="https://github.com/EmirkanOktay">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emirkanoktay&theme=aura"
+    />
 </p>
+    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
